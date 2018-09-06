@@ -1,0 +1,4 @@
+[[package]]
+name = "rust_cargo_hello"
+version = "0.1.0"
+
